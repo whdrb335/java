@@ -12,6 +12,8 @@ public class Break2 {
                 break;
             }
             i++;
+
+            // 과연 이것은 어떻게 될까!!
         }
     }
 }
