@@ -11,5 +11,7 @@ public class Switch4 {
             default -> 500;
         };
         System.out.println("발급받은 쿠폰 : " + coupon);
+
+        // 이 switch 문은 아직 널리 보급되어있지는 않아서 참고로 알아보자!
     }
 }
