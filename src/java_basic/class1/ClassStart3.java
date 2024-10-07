@@ -4,7 +4,7 @@ public class ClassStart3 {
 
     public static void main(String[] args) {
         Student student1;// 변수선언
-        student1 = new Student(); // 객체생성, 인스턴스 ,붕어빵
+        student1 = new Student(); // 객체생성, 인스턴스 ,붕어빵 (x001)참조 값으로 들어간다!
         //student1 = new Student();
         student1.name = "학생1";
         student1.age = 18;
